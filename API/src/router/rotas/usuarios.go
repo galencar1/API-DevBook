@@ -42,5 +42,5 @@ var rotasUsuarios = []Rota{
 
 		},
 		RequerAutenticacao: false,
-	}
+	},
 }
